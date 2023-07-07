@@ -61,3 +61,6 @@ Deco is also a decentralized approach that is based on Desis. Deco can move calc
     - The query mode is to choose the query pattern that is set into query generation file.
   - Generator Thread Number:
     - How many generator threads are initialized. One thread can produce at least 10 million tuples/s.
+
+# Experimental Data
+[https://zenodo.org/record/8120787/files/DEBS-Data.tar.gz?download=1](https://zenodo.org/record/8120787/files/DEBS-Data.tar.gz?download=1)
